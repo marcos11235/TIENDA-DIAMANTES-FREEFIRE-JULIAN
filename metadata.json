@@ -1,0 +1,6 @@
+{
+  "name": "FuegoStore - Free Fire Diamantes & Pines",
+  "description": "Tienda oficial de recargas de diamantes de Free Fire, pines digitales, verificación instantánea de ID de jugador, billetera virtual y panel de administración.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
